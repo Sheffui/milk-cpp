@@ -1,0 +1,17 @@
+{
+    "clock_color": "FFFFFF",
+    "clock_font": "assets/font.ttf",
+    "background_color": "000000",
+    "flash_color": "FF0000",
+    "audio_file": "assets/scream.wav",
+    "alarm_duration": 5,
+    "alarm_schedule": {
+        "Sunday": "0900",
+        "Monday": "1000",
+        "Tuesday": "1100",
+        "Wednesday": "1200",
+        "Thursday": "1300",
+        "Friday": "1850",
+        "Saturday": "1500"
+    }
+}
